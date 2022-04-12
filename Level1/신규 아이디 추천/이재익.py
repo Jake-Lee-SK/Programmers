@@ -55,3 +55,6 @@ new_id = 'b'
         for i in range(len(new_id_five)):
             new_id_six.append(new_id_five[i])
     print(''.join(new_id_six))
+
+# 푸는게 너무 귀찮은 구현 문제
+# 단계별로 해결함

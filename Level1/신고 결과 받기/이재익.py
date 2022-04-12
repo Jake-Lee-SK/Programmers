@@ -26,3 +26,5 @@ for tc in range(1, T+1):
                 if do_not_twice[numbering.get(id_list[2*j+1])][numbering.get(id_list[2*i+1])] == True:
                     get_mail[j] += 1
     print(get_mail)
+
+# 2번 신고 못하게하고... 어쨌든 구현 문제

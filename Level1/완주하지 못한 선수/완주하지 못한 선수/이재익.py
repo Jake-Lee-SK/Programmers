@@ -6,3 +6,5 @@ def solution(participant, completion):
             return participant[i]
 
     return participant[len(participant) - 1]
+
+# hash 문제는 처음이었지만 꽤나 어려웠다
