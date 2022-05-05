@@ -6,6 +6,7 @@
 
 - 네트워크 : Graph/BFS
 - 입국심사 : 이분탐색(Important!)
+- 섬 연결하기 : Graph/MTS(최소신장트리)
 
 # Level 2
 
@@ -18,6 +19,7 @@
 - 짝지어 제거하기 : Stack
 - 타겟 넘버 : DFS
 - 피보나치 수 : DP
+- 오픈채팅방 : Hash 2022/05/06
 
 # Level 1
 
